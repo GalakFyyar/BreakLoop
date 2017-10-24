@@ -1,0 +1,61 @@
+
+BreakLoopAtlas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bone
+  rotate: false
+  xy: 1, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+corn
+  rotate: false
+  xy: 51, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+cros
+  rotate: false
+  xy: 101, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+endp
+  rotate: false
+  xy: 151, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 201, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+ovly_b
+  rotate: false
+  xy: 251, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+ovly_g
+  rotate: false
+  xy: 301, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+ovly_r
+  rotate: false
+  xy: 351, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
